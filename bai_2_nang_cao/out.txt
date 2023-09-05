@@ -1,0 +1,11 @@
+
+hk06, ninja, 175, 150
+
+hk04, CBR, 150, 150
+
+hk03, exciter, 150, 70
+
+hk02, various, 100, 50
+
+hk05, honda, 100, 100
+hk01, yamaha sirious, 50, 25
